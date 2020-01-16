@@ -8,27 +8,23 @@ title: Welcome to Anthony Vailliant's page for Extra Credit!
 <h2>Management of Information Systems Senior at the University of Nebraska-Omaha</h2>
 </header>
 <section>
-
 <br>
 <br>
 <p>
 Hello, and welcome to my page, I hope you stay awhile and learn about me. My name is Anthony Vailliant and I am currently a senior at the University of Nebraska-Omaha (UNO) studying Management of Information Systems. 
 In addition, I am a Business Systems Analyst (BSA) at PayPal. 
-</p>
-							
+</p>							
 <p>
 I have worked at PayPal for seven years in April 2020. In those seven years I have held six different positions. I started my career in customer service, 
 as a Settings, Security, and Payments agent which was a general agent. I moved onto top customer/new member segmentation which was a specialized queue. Next, I was promoted to the Limitations queue.
 This queue was to assist customers with limitations and restrictions on their account such as unauthorized account access.
-</p>
-							
+</p>							
 <p>
 From customer service, I moved into Buyer Risk Operations (BRO). This was a back office risk queue in which I would review accounts for potential unauthorized access and stop the suspicious activity. 
 My next position I was in for almost four years and that was Compliance - Anti-Money Laundering.
 This job tasked me with reviewing accounts that were committing possible illegal acts within PayPal and report them to the appropriate law enforcement agency such as the FBI and Interpol. 
 My current role is a BSA in which I gather requirements for various projects that include test automation, data engineering, and report building. I have been in this role since May 2019. 	
-</p> 
-							
+</p> 							
 <br>
 <hr>
 <br>
@@ -36,7 +32,6 @@ My current role is a BSA in which I gather requirements for various projects tha
 <p class = "about">
 This website includes information about myself, my class history at UNO, and a recent fun trip I had to Europe. 
 </p> 
-
 <div
 d="validator">
 <p>
@@ -44,7 +39,6 @@ d="validator">
 href="http://validator.w3.org/check?uri=referer">
 <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3.png" style="width:66px; height:44px;" alt="HTML5 Validator" title="HTML5 Validator">
 </a>
-
 &nbsp;
 &nbsp;
 <a>
@@ -56,9 +50,8 @@ alt="Valid
 CSS!"
 />
 </a>
-
 </p>
 <p>&copy;Anthony Vailliant 2020</p> 
 </div>	
-				
+</section> 
 </body>
